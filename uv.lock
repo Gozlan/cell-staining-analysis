@@ -486,7 +486,7 @@ wheels = [
 ]
 
 [[package]]
-name = "laminin-analysis"
+name = "lamin-b1-analysis"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

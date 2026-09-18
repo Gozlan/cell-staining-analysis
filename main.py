@@ -1,5 +1,5 @@
 def main():
-    print("Hello from laminin-analysis!")
+    print("Hello from lamin-b1-analysis!")
 
 
 if __name__ == "__main__":
